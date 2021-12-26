@@ -1,2 +1,2 @@
 # FrenlyDogs
-WIP NFT contract
+NFT contract. See FrenlyDogsInterface for associated frontend.
