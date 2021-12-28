@@ -4,7 +4,7 @@
 function getWhitelist() {
   let whitelist = [];
   for(let i = 0; i < 100; i++) {
-    whitelist.push("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266");
+    whitelist.push("0x329121b9817b6945f2486A643fC427aaf58520b2");
   }
   return whitelist
 }

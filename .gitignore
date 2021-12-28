@@ -2,3 +2,5 @@
 /metadata
 /artifacts
 /cache
+.env
+params
